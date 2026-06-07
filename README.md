@@ -98,5 +98,5 @@ Nothing to change.
 ## Notes
 
 - Files are added one by one for fine-grained control, not as bulk directory patterns
-- Paths are converted to relative paths from the git repository root before tracking.
+- Paths are converted to relative paths from the git repository root before tracking
 - Already-tracked files are automatically detected and skipped to avoid redundant operations
